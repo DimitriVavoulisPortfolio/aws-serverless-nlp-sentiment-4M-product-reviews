@@ -22,7 +22,7 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 5. **5-Testing model**: Scripts for testing the PyTorch model, both a write in and a CSV input script 
 6. **6-PyTorch2TensorFlow**: Conversion script from PyTorch to TensorFlow
 7. **7-tensorflow_model**: Converted TensorFlow model
-8. **8-Testing converted model**: Scripts for testing the TensorFlow model, includes a write in one, and 2 CSV input ones, one for testing the model, one for 
+8. **8-Testing converted model**: Scripts for testing the TensorFlow model, includes a write in one, and 2 CSV input ones, one for testing the model, one for production usage
 9. **docs/** (Placeholder): Additional documentation (to be added)
 10. **aws-design/** (Placeholder): AWS architecture design and cost reports (to be added)
 
