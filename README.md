@@ -1,8 +1,8 @@
-# Low cost Sentiment Analysis Model for Product Reviews
+# Sentiment Analysis Model for Product Reviews
 
 ## Project Overview
 
-This project is a production-ready DistilBERT Sentiment Analysis model for product reviews desgined as a low cost but still industry-quality market research tool, it was trained with a dataset of over 4 million Amazon product reviews to work for a wide variety of products and to distinguish with the nuiance of an actual market researcher in a highly scalable manner. This projects comes with designs for a serverless live demo in AWS. 
+This project is a production-ready DistilBERT Sentiment Analysis model for product reviews desgined as a low cost but still industry-quality market research tool, it was trained with a dataset of over 4 million Amazon product reviews to work for a wide variety of products and to distinguish with the nuiance of an actual market researcher in a highly scalable manner. This project comes with designs for a serverless live demo in AWS. 
 
 ### Key Features
 
