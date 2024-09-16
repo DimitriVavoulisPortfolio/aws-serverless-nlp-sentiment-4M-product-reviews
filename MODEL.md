@@ -1,4 +1,4 @@
-# MODEL.md - Sentiment Analysis Model Documentation
+# MODEL.md - Sentiment Analysis Model for Product Reviews Documentation
 
 ## Model Architecture
 
