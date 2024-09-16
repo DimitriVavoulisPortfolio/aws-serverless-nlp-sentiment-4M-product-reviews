@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This document outlines the development process and planned deployment for our serverless sentiment analysis system, designed to analyze product reviews using AWS services. The system includes both back-end processing and a front-end user interface.
+This document outlines the development process and planned deployment for the serverless sentiment analysis system, designed to analyze product reviews using AWS services. The system includes both back-end processing and a front-end user interface.
 
 ## Development Stages
 
