@@ -1,0 +1,1 @@
+Because of licensing i'm not putting the dataset, so here is 10K reviews for production testing, it has no labels so don't use it for fine-tuning.
