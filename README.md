@@ -28,7 +28,7 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 
 ## Documentation
 
-(Placeholder: Links to detailed documentation will be added here)
+- **MODEL.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
 
 ## Model Performance
 
