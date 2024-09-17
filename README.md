@@ -59,7 +59,7 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 
 4. To test the TensorFlow model:
    ```
-   python 8-Testing converted model/tensorflow-model-test-script.py
+   python 8-Testing converted model\tensorflow-model-test-script.py
    ```
 
 ## Future Work
