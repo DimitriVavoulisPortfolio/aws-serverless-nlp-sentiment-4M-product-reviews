@@ -28,7 +28,7 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 
 - **MODEL.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
 - **PROCESS.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/PROCESS.md
-- **AWS-IMPLEMENTATION-AND-COST-REPORT.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
+- **AWS-IMPLEMENTATION-AND-COST-REPORT.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/AWS-IMPLEMENTATION-WITH-COST-REPORT.md
 
 ## Model Performance
 
@@ -54,12 +54,12 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 
 3. To test the PyTorch model:
    ```
-   python 5-Testing\ model/test_pytorch_model.py
+   python 5-Testing model\test_pytorch_model.py
    ```
 
 4. To test the TensorFlow model:
    ```
-   python 8-Testingconverted\ model/test_tensorflow_model.py
+   python 8-Testing converted model/test_tensorflow_model.py
    ```
 
 ## Future Work
