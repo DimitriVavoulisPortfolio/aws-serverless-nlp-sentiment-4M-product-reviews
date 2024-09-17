@@ -23,12 +23,12 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 6. **6-PyTorch2TensorFlow**: Conversion script from PyTorch to TensorFlow
 7. **7-tensorflow_model**: Converted TensorFlow model
 8. **8-Testing converted model**: Scripts for testing the TensorFlow model, includes a write in one, and 2 CSV input ones, one for testing the model, one for production usage
-9. **docs/** (Placeholder): Additional documentation (to be added)
-10. **aws-design/** (Placeholder): AWS architecture design and cost reports (to be added)
 
 ## Documentation
 
 - **MODEL.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
+- **PROCESS.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
+- **AWS-IMPLEMENTATION-AND-COST-REPORT.md**: https://github.com/DimitriVavoulisPortfolio/aws-serverless-nlp-sentiment-4M-product-reviews/blob/main/MODEL.md
 
 ## Model Performance
 
