@@ -54,13 +54,14 @@ This project is a production-ready DistilBERT Sentiment Analysis model for produ
 
 3. To test the PyTorch model:
    ```
-   python 5-Testing model\test_pytorch_model.py
+   python 5-Testing model\sentiment-analysis-testing-script-write-in.py
    ```
 
 4. To test the TensorFlow model:
    ```
    python 8-Testing converted model\tensorflow-model-test-script.py
    ```
+DISCLAIMER: The paths for the models have to be put in by the user 
 
 ## Future Work
 
