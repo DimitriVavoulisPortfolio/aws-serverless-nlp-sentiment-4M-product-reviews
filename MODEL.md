@@ -11,7 +11,7 @@ The sentiment analysis model is based on DistilBERT, a distilled version of BERT
 ## Training Process
 
 ### Dataset
-- Total samples: 2.8 million Amazon product reviews
+- Total samples: 4 million Amazon product reviews
 - Features: 'cleaned_text' (preprocessed review text), 'sentiment' (1 for negative, 2 for positive)
 
 ### Training Configuration
