@@ -1,12 +1,12 @@
-# Sentiment Analysis Model for Product Reviews
+# Consumer Sentiment Analytics Tool
 
 ## Project Overview
 
-This project is a production-ready DistilBERT Sentiment Analysis model for product reviews desgined as a low cost market research tool with the nuiance of an actual market researcher, it was trained with a dataset of over 4 million Amazon product reviews to work for a wide variety of products in a highly scalable manner. This project comes with designs for a serverless live demo in AWS. 
+This project is a production-ready DistilBERT Sentiment Analysis model desgined as a low cost market research tool with the nuiance of an actual market researcher, it was trained with a dataset of over 4 million Amazon product reviews to work for a wide variety of products in a highly scalable manner. This project comes with designs for a serverless live demo in AWS. 
 
 ### Key Features
 
-- Pre-trained DistilBERT model for sentiment analysis on product reviews
+- Pre-trained DistilBERT model for sentiment analysis on consumer sentiment
 - Designed for low compute costs to maximize scalability
 - Conversion from PyTorch to TensorFlow
 - Data processing and tokenization pipeline
